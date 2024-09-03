@@ -1,5 +1,7 @@
 # Hannes Loggbok
 ================
+## 09/03/24
+Idag har jag arbetat med övningarna på hemsidan. Jag har arbetat med variabler och med in- och utmatningar.
 ## 08/27/24
 Idag har vi installerat Python och lagt in tillägg för Python i VSCodium. Sedan började vi med olika övningar gällande operatorer och variabler.
 ## 08/26/24
