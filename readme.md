@@ -1,5 +1,7 @@
 # Hannes Loggbok
 ================
+## 09/17/24
+Idag har jag arbetat med typkonverteringar och sedan jobbat vidare med if-satser på 7050.
 ## 09/10/24
 Idag har jag arbetat med övningarna på 7050 som handlade om if-satser.
 ## 09/03/24
