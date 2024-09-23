@@ -1,5 +1,7 @@
 # Hannes Loggbok
 ================
+## 09/23/24
+Idag har jag gjort det första testet i programmering, sedan fortsatte jag med att arbeta med if-satser.
 ## 09/17/24
 Idag har jag arbetat med typkonverteringar och sedan jobbat vidare med if-satser på 7050.
 ## 09/10/24
