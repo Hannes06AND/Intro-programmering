@@ -1,5 +1,8 @@
 # Hannes Loggbok
 ================
+## 09/24/24
+Idag har vi fått tillbaka resultaten för det första testet och gått igenom de olika frågorna. Sedan arbetade jag
+med while-slingor (7060) på hemsidan.
 ## 09/23/24
 Idag har jag gjort det första testet i programmering, sedan fortsatte jag med att arbeta med if-satser.
 ## 09/17/24
