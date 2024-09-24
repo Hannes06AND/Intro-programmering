@@ -1,7 +1,7 @@
 A = 3
 while A <= 10:
     print(A)
-    A = A +1
+    A = A + 1
 print('klar')
 
 B = 2

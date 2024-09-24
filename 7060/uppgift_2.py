@@ -1,0 +1,1 @@
+text1 = input("Hur många heltal vill du ha? ")
