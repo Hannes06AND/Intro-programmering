@@ -1,5 +1,7 @@
 # Hannes Loggbok
 ================
+## 09/30/24
+Idag har jag gjort det andra testet, sedan fortsatte jag med while-slingor.
 ## 09/24/24
 Idag har vi fått tillbaka resultaten från det första testet och gått igenom de olika frågorna. Sedan arbetade jag
 med while-slingor (7060) på hemsidan.
