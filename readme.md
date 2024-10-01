@@ -1,5 +1,7 @@
 # Hannes Loggbok
 ================
+## 10/01/24
+Idag har vi gått igenom test 2 och fått tillbaka resultat, sedan började jag med slumptal (7070).
 ## 09/30/24
 Idag har jag gjort det andra testet, sedan fortsatte jag med while-slingor.
 ## 09/24/24
