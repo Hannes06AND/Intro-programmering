@@ -19,3 +19,5 @@ Idag har jag arbetat med övningarna på hemsidan. Jag har arbetat med variabler
 Idag har vi installerat Python och lagt in tillägg för Python i VSCodium. Sedan började vi med olika övningar gällande operatorer och variabler.
 ## 08/26/24
 Idag har jag skapat mapp för programmering. Vi har även valt språk, vi ska börja med Python.
+## 11/04/24
+Idag har jag gjort om test 4. Innan det arbetade jag mer med while-slingor 7061.
