@@ -21,3 +21,7 @@ Idag har vi installerat Python och lagt in tillägg för Python i VSCodium. Seda
 Idag har jag skapat mapp för programmering. Vi har även valt språk, vi ska börja med Python.
 ## 11/04/24
 Idag har jag gjort om test 4. Innan det arbetade jag mer med while-slingor 7061.
+## 11/11/24
+Idag har vi lyssnat på genomgång om listor, därefter övade jag inför test 5.
+## 11/12/24
+Idag fortsatte jag att öva på test 5 eftersom jag behövde göra om det. Därefter gjorde jag om test 5 och sedan gjorde jag även test 6 som jag klarade.
