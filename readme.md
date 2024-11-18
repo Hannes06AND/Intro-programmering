@@ -1,5 +1,7 @@
 # Hannes Loggbok
 ================
+# 11/18/24
+Idag fick jag tillbaka test 5 och 6 som var godkända. Sedan arbetade jag med uppgifterna i 7095 och 7096 om "for".
 ## 11/12/24
 Idag fortsatte jag att öva på test 5 eftersom jag behövde göra om det. Därefter gjorde jag om test 5 och sedan gjorde jag även test 6 som jag klarade, klarade även test 5 på andra försöket.
 ## 11/11/24
