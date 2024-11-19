@@ -1,5 +1,7 @@
 # Hannes Loggbok
 ================
+## 11/19/24
+Idag har jag övat inför test 7 om for och listor. Jag övade på exempeltestet och på uppgifterna om listor 7100.
 # 11/18/24
 Idag fick jag tillbaka test 5 och 6 som var godkända. Sedan arbetade jag med uppgifterna i 7095 och 7096 om "for".
 ## 11/12/24
