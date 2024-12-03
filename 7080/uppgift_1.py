@@ -1,5 +1,4 @@
 def kelvintocelsius(kelvin):
-    answer = kelvin - 273.15
-    return answer
+    return kelvin - 273.15
 temp = float(input("Ange temperatur i grader Kelvin: "))
 print("Temperaturen är", kelvintocelsius(temp), "Celsius")
