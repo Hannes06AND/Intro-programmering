@@ -1,5 +1,7 @@
 # Hannes Loggbok
 ================
+## 12/03/24
+Idag har jag arbetat med 7080 om funktioner och övade inför prov 9. I slutet av lektionen gjorde jag testet som jag klarade.
 ## 11/19/24
 Idag har jag övat inför test 7 om for och listor. Jag övade på exempeltestet och arbetade med uppgifterna under 7100. Sedan gjorde jag test 7 som jag klarade.
 # 11/18/24
