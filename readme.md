@@ -1,5 +1,7 @@
 # Hannes Loggbok
 ================
+## 12/10/24
+Idag har jag övat inför det sista testet, test 10. Jag övade på att definiera funktioner, i slutet på lektionen gjorde jag sista testet som jag klarade. Det var alltså det sista testet i python-kursen.
 ## 12/03/24
 Idag har jag arbetat med 7080 om funktioner och övade inför prov 9. I slutet av lektionen gjorde jag testet som jag klarade.
 ## 11/19/24

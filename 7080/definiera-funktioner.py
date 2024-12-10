@@ -1,12 +1,12 @@
 def maximum(x, y):
     if x > y:
-        print(x)
+        return x
     else:
-        print(y)
+        return y
 def addera(x, y):
-    print(x + y)
+    return x + y
 def hej(x):
     print("hej", x)
-maximum(123, 142)
-addera(623, 4123)
+print(maximum(123, 142))
+print(addera(623, 4123))
 hej("Hannes")
